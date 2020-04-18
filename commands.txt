@@ -1,0 +1,76 @@
+  232  git bash --version
+  233  git --version
+  248  git --help
+  253  git init
+  255  git status
+  256  git add .
+  257  git status
+  258  git commit -m "Add. added myFile.txt to repository"
+  259  git status
+  261  git status
+  262  git add .
+  263  git commit -m "Refactor. second line added to the file"
+  264  git remote add origin https://github.com/Mehboob750/BL_Test.git
+  265  git remote -v
+  266  git push -u origin master
+  273  git status
+  274  git add .
+  275  git status
+  276  git commit -m "Add. added sample addition code to repository"
+  277  git status
+  278  git status
+  279  git remote add origin
+  280  git remote -v
+  281  git push -u origin master
+  286  git status
+  287  git add .
+  288  git status
+  289  git commit -m "Refactor. Added third line from local repository"
+  290  git status
+  291  git remote -v
+  292  git pull
+  293  git log
+  295  git status
+  296  git add.
+  297  git add .
+  298  git commit -m "Refacor. reslove conflict added third line"
+  299  git status
+  300  git log
+  657  git status
+  658  git branch
+  659  git checkout -b test_branch
+  660  git branch
+  661  git branch
+  662  git branch
+  666  git status
+  667  git add .
+  668  git commit -m "Refactor: add operation substraction"
+  669  git -v
+  670  git remote -v
+  671  git push origin test_branch
+  672  git checkout master
+  673  git branch
+  674  git merge test_branch
+  675  git push origin master
+  676  git branch
+  677  git status
+  678  git branch
+  679  git diff master test_branch
+  680  git diff test_branch master
+  681  git remote -v
+  682  git pull
+  683  git status
+  686  git status
+  687  git remote -v
+  688  git pull
+  689  git branch
+  692  git status
+  693  git diff
+  694  git diff master test_branch
+  695  git diff test_branch master
+  696  git status
+  697  git add .
+  698  git status
+  699  git commit -m "Refactor. delete the fourth line"
+  702  git remote -v
+  703  git push
